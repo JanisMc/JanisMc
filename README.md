@@ -1,6 +1,6 @@
 ### Hi I'm Janis
 
-## I'm very new to this coding thing
+#### I'm very new to this coding thing
 
 - Three weeks into my CodeNation bootcamp
 - Still quite unsure what I'm doing
