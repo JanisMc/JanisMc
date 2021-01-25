@@ -1,4 +1,9 @@
-### Hi
+### Hi I'm Janis
 
-Hello
+## I'm very new to this coding thing
+
+- Three weeks into my CodeNation bootcamp
+- Still quite unsure what I'm doing
+
+![Stars](https://github.com/JanisMc/JanisMc/blob/main/img/Stars.jpg)
 
